@@ -1,0 +1,12 @@
+[submodule "ecommerce-user-management-service"]
+	path = ecommerce-user-management-service
+	url = https://github.com/Cloud2Shore/ecommerce-user-management-service.git
+[submodule "ecommerce-product-catalog-service"]
+	path = ecommerce-product-catalog-service
+	url = https://github.com/Cloud2Shore/ecommerce-product-catalog-service.git
+[submodule "ecommerce-order-processing-service"]
+	path = ecommerce-order-processing-service
+	url = https://github.com/Cloud2Shore/ecommerce-order-processing-service.git
+[submodule "ecommerce-payment-gateway-service"]
+	path = ecommerce-payment-gateway-service
+	url = https://github.com/Cloud2Shore/ecommerce-payment-gateway-service.git
