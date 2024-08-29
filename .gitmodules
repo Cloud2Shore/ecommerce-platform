@@ -10,3 +10,6 @@
 [submodule "ecommerce-payment-gateway-service"]
 	path = ecommerce-payment-gateway-service
 	url = https://github.com/Cloud2Shore/ecommerce-payment-gateway-service.git
+[submodule "ecommerce-discovery-server"]
+	path = ecommerce-discovery-server
+	url = https://github.com/Cloud2Shore/ecommerce-discovery-server.git
